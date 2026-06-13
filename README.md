@@ -15,7 +15,7 @@ El análisis busca:
 
 ## Datasets Utilizados
 
-El análisis trabaja con tres archivos CSV ubicados en la carpeta `/datasets/`:
+El análisis trabaja con tres archivos CSV:
 
 | Archivo | Descripción |
 |---|---|
